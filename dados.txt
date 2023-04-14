@@ -1,5 +1,4 @@
 Nome Nacionalidade idade
-Elisandro Cabo-verdiana 26
 Carlos Portuguesa 20
 Maria Brasileira 28
 Joana Portuguesa 30
